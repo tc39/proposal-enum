@@ -430,6 +430,10 @@ auto enum Numbers { zero, one, two, three }
 Numbers.zero; // 0
 ```
 
+# History
+
+* April 15th, 2025 &emdash; Proposed for Stage 1 ([slides](https://1drv.ms/p/c/934f1675ed4c1638/EYypvengQohMlG52w1qseW8BCwCkSG0Y-2ip8Zq7pxoOFw?e=Aklyqu))
+  * Outcome: [Advanced to Stage 1](https://github.com/tc39/notes/blob/main/meetings/2025-04/april-15.md#conclusion-1)
 
 # TODO
 
